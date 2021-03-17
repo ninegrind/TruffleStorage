@@ -1,0 +1,9 @@
+truffle init
+truffle create test SimpleStorage
+    (creates a test file)
+truffle test
+truffle create contract SimpleStorage
+    create 2-deploy-simple-storage.js
+        cut and paste in initial migrations/replace migrations with SimpleStorage
+
+truffle test
